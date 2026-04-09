@@ -6,9 +6,15 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
+<br>
+
 An encapsulated AI persona/framework designed to automatically simulate the mindset of a top-tier, highly critical Deep Learning conference reviewer (the universally dreaded **"Reviewer 2"**).
 
 This skill is specifically tuned for Computer Vision (CV) and Deep Learning, with deep built-in constraints and critique vectors for **CNNs, Transformers, and Mamba (SSM)** architectures. Use this to rigorously stress-test your paper before submitting it to venues like CVPR, ICCV, NeurIPS, or ICML.
+
+</div>
+
+---
 
 ## 🌟 What does it do?
 
